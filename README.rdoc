@@ -9,4 +9,5 @@ According to the authors, the purpose of the tutorial is to teach users:
 * The basic principles of MVC (Model, View, Controller) and RESTful design.
 * How to quickly generate the starting pieces of a Rails application.
 
-As of today, March 8, 2015, the tutorial is complete. However, as time permits, I might add more features and styles to this blog. Right now, it is very basic, ut it is possible to create, edit, and delete both articles and comments. With a few added features and styling, this could be a good Rails-based blog.
+As of today, March 8, 2015, the tutorial is complete. However, as time permits, I might add more features and styles to this blog. Right now, it is very basic, but it is possible to create, edit, and delete both articles and comments. With a few added features and styling, this could be a good Rails-based blog.
+
